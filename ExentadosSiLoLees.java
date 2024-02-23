@@ -6,6 +6,6 @@ public class ExentadosSiLoLees {
 
         System.out.println("Inserta un número, lo adivinaré: ");
         int numero = scanner.nextInt();
-
+        System.out.printl("El numero que pensaste es:" + numero);
     }
 }
